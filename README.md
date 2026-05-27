@@ -131,13 +131,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 4. Lanzar JupyterLab
-Una vez instaladas las dependencias, levanta el servidor local de JupyterLab:
-```bash
-jupyter lab
-```
-El navegador se abrirá automáticamente en la dirección local (normalmente `http://localhost:8888`). Desde ahí podrás abrir, editar y ejecutar las celdas de cada notebook en orden (`1_limpieza_de_datos.ipynb` primero para regenerar los datos si es necesario).
-
 ---
 
 ## 📄 Licencia
